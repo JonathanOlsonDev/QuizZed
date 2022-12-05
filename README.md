@@ -1,2 +1,2 @@
-# java quiz app
-A java application for creating and taking quizes
+# QuizZed a java quiz app.
+An application for creating and taking quizes
