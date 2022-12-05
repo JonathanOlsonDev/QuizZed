@@ -1,2 +1,2 @@
-# clicker-game
-A php web clicker game
+# java quiz app
+A java application for creating and taking quizes
